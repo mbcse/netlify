@@ -1,4 +1,4 @@
-# Decentralized Social Media Using Thridweb
+# Decentralized Social Media Using Netlify and Ethereum
 `Netlify`
 
 ## Introduction
@@ -36,7 +36,7 @@ The platform is a decentralized social media something similar to twitter but to
 - Javascript
 - Jquery
 - Truffle
-- Thirdweb
+- Netlify
 
 ## Future Work
 - Use Meta transactions(gasless transactions) to make the platform gas free for users
@@ -58,5 +58,5 @@ The platform is a decentralized social media something similar to twitter but to
 1. In the projects root directory, run `npm start`
 
 ## Project Demo
-Website 👉 [https://dwittermedia.herokuapp.com/](https://dwittermedia.herokuapp.com/)
+Website 👉 [dwittermedia.netlify.app](dwittermedia.netlify.app)
 

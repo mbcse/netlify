@@ -1,5 +1,5 @@
 # Decentralized Social Media Using Thridweb
-`Thirdweb`
+`Netlify`
 
 ## Introduction
 

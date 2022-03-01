@@ -1,4 +1,4 @@
-App={
+App={ 
     loading:false,
     ipfs: window.IpfsApi('ipfs.infura.io', 5001,{ protocol: 'https'}),
     contracts:{},
